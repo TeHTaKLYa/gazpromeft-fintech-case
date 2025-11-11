@@ -31,10 +31,10 @@
 ## 📑 Содержание
 
 - [Полное решение](./SOLUTION.md)
-- [Клиентский путь](./docs/customer-journey.md)
-- [Способы оплаты](./docs/payment-methods.md)
-- [План внедрения](./docs/implementation-plan.md)
-- [Финансовый анализ](./docs/financial-analysis.md)
+- [Клиентский путь](/docs/customer-journey.md)
+- [Способы оплаты](/docs/payment-methods.md)
+- [План внедрения](/docs/implementation-plan.md)
+- [Финансовый анализ](/docs/financial-analysis.md)
 
 ## 💡 Основные рекомендации
 
